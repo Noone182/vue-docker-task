@@ -5,9 +5,7 @@
 </template>
 
 <script>
-export default {
-
-};
+export default {};
 </script>
 
 <style lang="scss">
@@ -17,9 +15,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-	width: 380px;
-	margin: 0 auto;
-	padding: 0 10px;
+  width: 380px;
+  margin: 0 auto;
+  padding: 0 10px;
 }
-
 </style>
